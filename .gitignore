@@ -1,2 +1,4 @@
 .DS_Store
 Parts/.DS_Store
+*.CWR
+*.LOG
